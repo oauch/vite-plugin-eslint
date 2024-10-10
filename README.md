@@ -134,3 +134,6 @@ Will cause the module build to fail if there are any errors, based on `emitError
 ## License
 
 MIT
+
+## Fix
+package.json export "types": "./dist/index.d.ts",
